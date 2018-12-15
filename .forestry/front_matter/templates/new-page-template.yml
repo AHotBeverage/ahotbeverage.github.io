@@ -1,0 +1,8 @@
+---
+label: New Page Template
+hide_body: false
+is_partial: false
+fields:
+- type: textarea
+  label: Text Area
+  name: text_area

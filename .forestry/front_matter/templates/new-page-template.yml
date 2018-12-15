@@ -7,4 +7,4 @@ fields:
   label: Text Area
   name: text_area
 pages:
-- _posts/new.md
+- _posts/2018-12-15-new.md

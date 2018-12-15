@@ -6,3 +6,5 @@ fields:
 - type: textarea
   label: Text Area
   name: text_area
+pages:
+- _posts/ne.md
